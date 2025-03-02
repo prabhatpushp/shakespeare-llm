@@ -16,7 +16,7 @@ This project implements a transformer-based language model trained on the works 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/shakespeare-llm
    cd shakespeare-llm
    ```
 2. Set up a virtual environment (optional but recommended):
