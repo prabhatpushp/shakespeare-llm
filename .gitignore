@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE files
+.idea/
+
+# Miscellaneous
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/ 
